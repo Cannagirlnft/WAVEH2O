@@ -1,0 +1,5 @@
+<svg width="32px" height="32px" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="16" cy="16" r="16" fill="#0057A8" />
+  <path d="M4,20 Q10,10 20,20 Q24,22 28,18" fill="none" stroke="white" stroke-width="2"/>
+  <text x="6" y="30" fill="white" font-size="6px" font-family="Arial">WH2O</text>
+</svg> 
