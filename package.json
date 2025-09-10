@@ -1,0 +1,15 @@
+{
+  "name": "waveh2o",
+  "version": "1.0.0",
+  "description": "Welcome to the official GitHub repository of **CannaGirl World** and the **$WH2O (WAVEH2O)** token.   CannaGirl World is a unique ecosystem combining **DeFi, Gaming, NFTs, and the Metaverse**, bridging virtual agriculture with real-world cannabis production (in compliance with local laws).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.15.0"
+  }
+}
